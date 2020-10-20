@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-cloudvisionapi-handwritten-textrecognition",
+  "version": "1.0.0",
+  "description": "Example of handwritten text recognition using Google Cloud Vision API with node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "cloud",
+    "vision",
+    "api",
+    "handwritten",
+    "text"
+  ],
+  "author": "Redha Azmei",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^2.1.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
